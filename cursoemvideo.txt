@@ -1,0 +1,3 @@
+Vinnicius;20
+Julia;18
+vitoria;1
